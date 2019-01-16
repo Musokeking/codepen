@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+
+#header {
+    padding: 30px;
+    background-color: black;
+    background-position: center 0;
+    border: 1px solid black;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    color: white 
+}
+
+#nav {
+    float: right;
+    border: 1px
+}
+
+.side-menu {
+    width: 20%;
+    border: 1px solid white;
+    height: 0cm;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: left;
+}
+.body {
+    width: 80%;
+    border-left: 1px solid gray;
+    height: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* border: 1px solid gray; */
+    float: right;
+}
+.button {
+    background-color: gray;
+    background-blend-mode: color;
+    text-align: center;
+    padding: 4px;
+    display: inline-block;
+    text-decoration: none;
+} 
